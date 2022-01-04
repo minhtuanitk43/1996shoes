@@ -1,0 +1,1 @@
+<H1 class="text-primary fw-bold">BẢNG ĐIỀU KHIỂN CỦA NGƯỜI QUẢN TRỊ</H1>
